@@ -25,7 +25,7 @@ I am committed to continuous professional development and am always eager to lea
 ### Let's Connect
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to explore my portfolio, and don't hesitate to reach out if you'd like to discuss a project, potential collaboration, or simply to connect.
 
-- **Email**: [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
+- **Email**: [jakejshiel@gmail.com](mailto:jakejshiel@gmail.com)
 - **LinkedIn**: [Jake Shiel](https://www.linkedin.com/in/jakeshielbsc/)
 - **Portfolio**: [jakeshiel-data-analyst](https://sites.google.com/view/jakeshiel-data-analyst/home)
 
